@@ -20,7 +20,7 @@ You may need to click the Run button more than once and click inside the game fr
 
 ## What I Learned
 
-This project gave me experience creating a game around a specific theme and translating an environmental message into an interactive experience. It also provided an opportunity to work on gameplay mechanics and consider how a game can communicate an idea while remaining engaging for players.
+As one of my first Python projects, this gave me experience on creating a game around a specific theme and translating a message into an interactive experience. It also provided an opportunity to work on gameplay mechanics and consider how a game can be coded to communicate an idea while engaging a player.
 
 ## Project Context
 
